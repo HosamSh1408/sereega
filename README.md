@@ -140,7 +140,7 @@ This project generates and visualizes EEG scalp data with various components, in
     end
     ```
 
-![and it should give somthing thike this](/Users/hosamshibly/Downloads/SEREEGA-1.5.0/sereega/simulation.png)
+![and it should give somthing thike this](image/simulation.png)
 
 
 ## Requirements
